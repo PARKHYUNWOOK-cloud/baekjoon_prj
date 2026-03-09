@@ -22,11 +22,6 @@ public class Main {
 		String result=x==total?"Yes":"No";
 		System.out.println(result);
 		
-		
-		
-		
-		
-		
 	}//main
 
 }//class

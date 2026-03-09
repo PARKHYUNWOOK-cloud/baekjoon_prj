@@ -16,9 +16,5 @@ public class Main {
 			System.out.print("long ");
 		}//end for 
 		System.out.print("int");
-		
-		
-		
-		
 	}//main
 }//class
