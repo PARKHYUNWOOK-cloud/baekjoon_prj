@@ -1,16 +1,14 @@
-package baek_27866;
+package baek_24262;
 
 import java.util.Scanner;
 
 public class Main {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		String text = sc.next();
-		int findNum = sc.nextInt()-1;
+		int num = sc.nextInt();
 		
-		System.out.println(text.charAt(findNum));
-		
+		System.out.println(1);
+		System.out.println(0);
 	}//main
 }//class
