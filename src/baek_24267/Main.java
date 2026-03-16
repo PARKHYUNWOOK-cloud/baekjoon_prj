@@ -20,6 +20,7 @@ public class Main {
 		
 		System.out.println(n*(n-1)*(n-2)/6);
 		System.out.println(3);
+		//어렵다..
 		
 		
 	}
