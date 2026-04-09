@@ -1,0 +1,15 @@
+package baek_9655;
+
+import java.util.*;
+public class Main {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int N = sc.nextInt();
+		String[] result= {"CY","SK"};
+		
+		System.out.println(result[N%2]);
+		
+	}//main
+}//class
